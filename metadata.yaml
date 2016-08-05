@@ -1,0 +1,34 @@
+_repo: The-Rover-Boys-on-the-Great-Lakes--Or-The-Secret-of-the-Island-Cave_6451
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Stratemeyer, Edward
+    aliases:
+    - Bonehill, Ralph
+    - Steward, Ray M.
+    - Winfield, Arthur M.
+    birthdate: 1862
+    deathdate: 1930
+    gutenberg_agent_id: '1626'
+    url: http://www.gutenberg.org/2009/agents/1626
+    wikipedia: http://en.wikipedia.org/wiki/Edward_Stratemeyer
+description: ''
+gutenberg_bookshelf: Children's Book Series
+gutenberg_issued: '2004-09-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6451'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Sailing -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Kidnapping -- Juvenile fiction'
+- !lcsh 'Brothers -- Juvenile fiction'
+- !lcsh 'Erie, Lake -- Juvenile fiction'
+- !lcsh 'Yachts -- Juvenile fiction'
+- GITenberg
+title: The Rover Boys on the Great Lakes; Or, The Secret of the Island Cave
+url: http://www.gutenberg.org/ebooks/6451
